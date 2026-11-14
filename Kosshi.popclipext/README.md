@@ -6,7 +6,7 @@ Select the text and click "Capture to Kosshi" in PopClip. The first line will be
 
 ## Demo
 
-<video src="https://github.com/shirokumamake/kosshi-popclip/raw/refs/heads/main/Kosshi.popclipext/demo.mp4" controls></video>
+https://github.com/user-attachments/assets/b210a279-65ab-47ac-a3cd-2359180005d7
 
 [Demo](demo.mp4)
 
