@@ -23,6 +23,10 @@ This extension uses the macOS "Capture to Kosshi" Service to pass selected plain
 
 The extension itself doesn’t send anything to an external server. If you have sync enabled in Kosshi, Kosshi’s sync settings will apply.
 
+## Contact
+
+https://kosshi.app/contact
+
 ## Changelog
 
 - 2026-11-13: Initial release.
