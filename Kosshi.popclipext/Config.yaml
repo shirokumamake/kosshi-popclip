@@ -1,0 +1,15 @@
+name: Kosshi
+identifier: app.kosshi.popclip
+description: Adds the selected text to Kosshi's Quick Capture destination.
+icon: "preserve-color file:Icon.svg"
+popclip version: 6221
+keywords: outliner outline notes capture
+app:
+  name: Kosshi
+  link: https://kosshi.app/
+  bundle identifiers: [app.kosshi]
+  check installed: true
+actions:
+  - title: Capture to Kosshi
+    service name: Capture to Kosshi
+    requirements: [text]
