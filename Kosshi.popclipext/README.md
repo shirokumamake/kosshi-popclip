@@ -4,6 +4,10 @@ Adds the selected text to the Quick Capture destination in [Kosshi][1].
 
 Select the text and click "Capture to Kosshi" in PopClip. The first line will be added as the topic, and the remaining lines as the note. You can choose where to save them in Kosshi's settings.
 
+## Demo
+
+[Demo](demo.mp4)
+
 ## Requirements
 
 - Kosshi 1.23 or later for Mac.
@@ -11,7 +15,7 @@ Select the text and click "Capture to Kosshi" in PopClip. The first line will be
 
 ## Notes
 
-Author: しろくまMAKE
+Author: Junichi Sato
 
 This extension uses the macOS "Capture to Kosshi" Service to pass selected plain text to Kosshi. It doesn't use AppleScript.
 
