@@ -29,6 +29,8 @@ https://kosshi.app/contact
 
 ## Changelog
 
+- 1.0.3: Use a masked icon.
+
 - 2026-11-13: Initial release.
 
 [1]: https://kosshi.app/
